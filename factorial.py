@@ -1,12 +1,1 @@
-def facto(n):
-    fact=1
-    for i in range(1,n+1):
-        fact*=i
-    return fact
-def summseries(n):
-    summ=0
-    for i in range(1,n+1):
-        summ+=1/facto(i)
-    return summ
-x=summseries(eval(input("Enter the value for n...")))
-print(x)
+you can open the figma task here - (https://www.figma.com/design/SHAAdRxOLMS6koaollY7p1/Untitled?node-id=0-1&t=QntyFnQV50rniBpJ-1)
